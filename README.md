@@ -8,7 +8,7 @@ I would like to extend my sincere thanks to [Krish Naik](https://github.com/kris
 
 About the Project
 ---
-This project aimed to explore the practical implementation of [Pinecone](https://www.pinecone.io/) (a cloud-based vector database) and its integration with [LangChain](https://python.langchain.com/docs/introduction/). The goal was to process the content of a [PDF document](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.indiabudget.gov.in/doc/budget_speech.pdf) by dividing it into smaller text chunks, which were then converted into vector embeddings. Subsequently, a similarity search (using [cosine similarity](https://www.linkedin.com/pulse/cosine-similarity-large-language-models-llms-ganesh-jagadeesan-zbijc/)) was applied to retrieve relevant answers based on user queries.
+This project aimed to explore the practical implementation of [Pinecone](https://www.pinecone.io/) (a cloud-based vector database) and its integration with [LangChain](https://python.langchain.com/docs/introduction/). The goal was to process the content of a PDF document by dividing it into smaller text chunks. These chunks were then converted into vector embeddings using [OpenAI embeddings](https://platform.openai.com/docs/guides/embeddings), which map text data into a high-dimensional vector space. Subsequently, a similarity search (using [cosine similarity](https://www.linkedin.com/pulse/cosine-similarity-large-language-models-llms-ganesh-jagadeesan-zbijc/)) was applied to retrieve relevant answers based on user queries.
 <br>
 <br>
 
