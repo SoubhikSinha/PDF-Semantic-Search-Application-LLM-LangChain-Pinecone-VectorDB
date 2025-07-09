@@ -1,4 +1,4 @@
-# LLM-LangChain-PineCone-VectorDB
+# PDF Semantic Search Application — LLM + LangChain + Pinecone VectorDB
 
 Acknowledgement
 ---
@@ -17,7 +17,7 @@ How to Run this Project ?
 ### **1. Clone the Repository**
 Clone the repository to your local machine :
 ```bash
-git clone https://github.com/SoubhikSinha/LLM-LangChain-PineCone-VectorDB.git
+git clone https://github.com/SoubhikSinha/PDF-Semantic-Search-Application-LLM-LangChain-Pinecone-VectorDB.git
 ```
 <br>
 
